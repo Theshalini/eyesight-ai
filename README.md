@@ -18,17 +18,6 @@ Eyesight AI is an AI-powered eye disease detection system developed using Stream
 - NumPy
 - Pandas
 
-## Project Structure
-
-Eyesight-AI/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── model/
-├── screenshots/
-└── dataset/
-
 ## How to Run
 
 1. Clone the repository
