@@ -59,4 +59,4 @@ streamlit run app.py
 - Mobile compatibility
 
 ## Author
-Thesha
+Theshalini Vijayakumar
