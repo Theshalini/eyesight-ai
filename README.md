@@ -20,7 +20,7 @@ Eyesight AI is an AI-powered eye disease detection system developed using Stream
 
 ## How to Run
 
-1. Clone the repository, and the model is given as a zipped folder unzip it to use.
+1. Clone the repository
 2. Install dependencies
 
 pip install -r requirements.txt
